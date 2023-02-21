@@ -2,7 +2,7 @@
 
 This folder contains the source code for the section *Experiments for Conseervative Policy* of the paper "Implicit Poisoning Attacks in Two-Agent Reinforcement Learning". 
 
-First, go to folder subfolder code.
+First, go to folder subfolder *code*.
 ```
 cd code
 ```
