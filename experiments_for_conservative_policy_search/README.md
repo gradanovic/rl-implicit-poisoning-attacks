@@ -1,10 +1,10 @@
 # Conservative Policy Search Algorithm for Implicit Poisoning Attacks in Two-Agent Reinforcement Learning
 
-This folder contains the source code for "Experiments for Conseervative Policy Section" section of the paper "Implicit Poisoning Attacks in Two-Agent Reinforcement Learning". 
+This folder contains the source code for the section *Experiments for Conseervative Policy* of the paper "Implicit Poisoning Attacks in Two-Agent Reinforcement Learning". 
 
 First, go to folder subfolder code.
 ```
-cs code
+cd code
 ```
 
 Install all libraries in requirements.txt on your machine to be able to execute the code. You can use the following command line.
