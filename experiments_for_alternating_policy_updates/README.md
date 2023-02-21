@@ -1,6 +1,6 @@
 # Gradient Based Implicit Poisoning Attacks in Two-Agent Reinforcement Learning
 
-This folder contains the source code for "Experiments for Alternating Policy Updates" section of the paper *Implicit Poisoning Attacks in Two-Agent Reinforcement Learning*.
+This folder contains the source code for the section "Experiments for Alternating Policy Updates" of the paper *Implicit Poisoning Attacks in Two-Agent Reinforcement Learning*.
 
 To replicate the results for Push 2D, run GradientBasedAttack.py with the following arguments:
 ```console 
